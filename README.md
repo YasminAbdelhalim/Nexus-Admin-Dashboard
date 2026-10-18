@@ -1,16 +1,45 @@
-# React + Vite
+# Nexus Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive admin dashboard built with React and Vite, featuring data visualization, analytics, and user statistics in a clean and intuitive interface.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[View Live Demo](https://nexus-admin-dashboard-seven.vercel.app/)**
 
-## React Compiler
+**[GitHub Repository](https://github.com/YasminAbdelhalim/Nexus-Admin-Dashboard)**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- 📊 **Dashboard Overview:** Display key statistics and summary cards.
+- 📈 **Data Visualization:** Present data using line and bar charts.
+- 📉 **Analytics Page:** View analytics metrics in a dedicated page.
+- 📋 **Transaction Table:** Display sample transaction data.
+- 🔐 **Login Interface:** Demo login flow with protected routes.
+- 🚪 **Logout Functionality:** Clear the login state and return to the login page.
+- 🔄 **Dynamic Statistics:** Update user statistics automatically and manually.
+- 🧩 **Reusable Components:** Maintain an organized and modular codebase.
+- 📱 **Responsive Layout:** Provide a clean interface across different screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Technologies Used
+
+- React
+- Vite
+- JavaScript (ES6+)
+- React Router DOM
+- Chart.js
+- React Chart.js 2
+- HTML5
+- CSS3
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) and npm installed.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/YasminAbdelhalim/Nexus-Admin-Dashboard.git
